@@ -17,3 +17,24 @@
  #### Java: Core programming language for system development.
  #### JavaFX: GUI framework for building interactive user interfaces.
  #### MySQL: Database management system for storing and managing data
+
+---- Login form ----
+
+![Screenshot from 2024-05-01 22-54-40](https://github.com/ImalKesara/Student-Management-System-Java-/assets/136368707/ec7490e4-9cce-40ea-bd01-7a7f4fcdc633)
+
+---- Admin Dashboard ----
+
+![Screenshot from 2024-05-01 22-38-21](https://github.com/ImalKesara/Student-Management-System-Java-/assets/136368707/c2b14717-b071-4e39-9317-9b07c276654d)
+
+---- Lecturer Dashboard ----
+
+![Screenshot from 2024-05-01 22-40-19](https://github.com/ImalKesara/Student-Management-System-Java-/assets/136368707/3506cc13-87c0-4f7c-9600-cd4e522ccf8a)
+
+---- Tecnical officer Dashboard ----
+
+![Screenshot from 2024-05-01 22-39-38](https://github.com/ImalKesara/Student-Management-System-Java-/assets/136368707/e3f58258-6498-4ceb-8be5-93517e279899)
+
+---- Student Dashboard ----
+![WhatsApp Image 2024-05-01 at 22 39 09](https://github.com/ImalKesara/Student-Management-System-Java-/assets/136368707/7e23c5c3-ecc7-4da2-8782-61f42da96fbc)
+
+
